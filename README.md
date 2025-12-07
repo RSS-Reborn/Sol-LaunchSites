@@ -1,6 +1,11 @@
 # Sol-LaunchSites
 Sol Textures for various Launchsites around Earth.
 
+**This pack is required to run Sol, if you have performance concerns install the 256x pack**
+
+---
+
+### Pack Information
 Contains the following launchsites (more will be added later)
 - Woomera, Australia
 - Churchill, Canada
@@ -24,3 +29,9 @@ These values represent the width in pixels of a lat-long tile.
 256x  - 434.4m/px
 512x  - 217.2m/px
 1024x - 108.6m/px
+
+---
+
+### Why is this pack required to run Sol?
+
+These decals give me extremely high percision control around launchsites allowing me to fix issues like clipping or terrain bugs, for this reason it is required for use with Sol.
