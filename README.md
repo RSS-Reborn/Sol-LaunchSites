@@ -1,12 +1,12 @@
 # Sol-LaunchSites
 Sol Textures for various Launchsites around Earth.
 
-**This pack is required to run Sol, if you have performance concerns install the 256x pack**
+**This pack is required to run Sol, if you have performance concerns install the 256x pack.**
 
 ---
 
 ### Pack Information
-Contains the following launchsites (more will be added later)
+Contains the following launchsites (more will be added later):
 - Woomera, Australia
 - Churchill, Canada
 - Jiuquan, China
@@ -26,9 +26,9 @@ Contains the following launchsites (more will be added later)
 There are 3 different resolution options available, 256x, 512x, 1024x.
 These values represent the width in pixels of a lat-long tile.
 
-256x  - 434.4m/px
-512x  - 217.2m/px
-1024x - 108.6m/px
+- 256x  - 434.4m/px
+- 512x  - 217.2m/px
+- 1024x - 108.6m/px
 
 ---
 
